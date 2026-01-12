@@ -1,10 +1,10 @@
 import { useLocation } from "react-router-dom";
 
 const PAYMENT_LINKS = {
-  "₹6000": "https://rzp.io/rzp/BgwBLU8",
-  "₹5500": "https://rzp.io/rzp/XRlcasfy",
-  "₹4500": "https://rzp.io/rzp/YZdjRoL",
-  "₹3500": "https://rzp.io/rzp/Ad3GhnPV",
+  "₹6000": "https://rzp.io/rzp/jqkMfP6",
+  "₹5500": "https://rzp.io/rzp/9pyw1jM",
+  "₹4500": "https://rzp.io/rzp/rDuL12jx",
+  "₹3500": "https://rzp.io/rzp/RHTm8yf0",
 };
 
 export default function Payment() {
